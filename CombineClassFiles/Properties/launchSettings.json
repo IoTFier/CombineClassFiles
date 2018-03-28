@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CombineClassFiles": {
+      "commandName": "Project",
+      "commandLineArgs": ". output.cs"
+    }
+  }
+}
